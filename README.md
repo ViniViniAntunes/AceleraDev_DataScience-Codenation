@@ -1,12 +1,8 @@
-<h1 align="center"> AceleraDev - Data Science da Codenation </h1>
+<h1 align="center"> <strong align="center"> AceleraDev - Data Science da Codenation (R.I.P.) <img src="images/RIP.png" float="center" width=50px/></strong> </h1>
 
 <p align="center">
   <img src="https://codenation.dev/_nuxt/img/9bd98ba.svg" width=1000px/>
 </p>
-    
-<h1 align="center">
-  <h2 align="center"><strong align="center"> AceleraDev - Data Science da Codenation (R.I.P.) <img src="images/RIP.png" float="center" width=50px/></strong></h2>
-</h1>
 
 <br>
 
