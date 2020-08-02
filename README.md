@@ -1,7 +1,7 @@
-# AceleraDev - Data Science da Codenation
+<h1 align="center"> AceleraDev - Data Science da Codenation </h1>
 
 <p align="center">
-  <img src="https://codenation.dev/_nuxt/img/9bd98ba.svg" float="center" width=1000px/>
+  <img src="https://codenation.dev/_nuxt/img/9bd98ba.svg" width=1000px/>
 </p>
     
 <h1 align="center">
