@@ -1,7 +1,7 @@
 # AceleraDev - Data Science da Codenation
 
 <p align="center">
-  <img src="https://codenation.dev/_nuxt/img/9bd98ba.svg" float="center" width=250px/>
+  <img src="https://codenation.dev/_nuxt/img/9bd98ba.svg" float="center" width=500px/>
 </p>
     
 <h1 align="center">
@@ -13,7 +13,9 @@
 <h2><img src="https://raw.githubusercontent.com/ViniViniAntunes/Corretor_Ortografico_NLP/master/images/descricao.svg" width=50px/> Descrição </h2>
 
 <p>
-  Materiais e desafios da AceleraDev - Data Science da Codenation (R.I.P.) <img src="images/RIP.png" width=25px/>
+  Materiais e desafios da AceleraDev - Data Science da Codenation (R.I.P.)
+  <br>
+  <img src="images/RIP.png" float="center" width=50px/>
 </p>
 
 <br>
