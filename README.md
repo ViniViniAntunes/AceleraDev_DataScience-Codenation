@@ -1,7 +1,7 @@
 <h1 align="center"> <strong align="center"> AceleraDev - Data Science da Codenation (R.I.P.) <img src="images/RIP.png" float="center" width=50px/></strong> </h1>
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQIProGTXtAFkLwYqo3kVUrGI33onJLwmMj4w&usqp=CAU" width=1000px/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQIProGTXtAFkLwYqo3kVUrGI33onJLwmMj4w&usqp=CAU" width=500px/>
 </p>
 
 <br>
