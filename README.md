@@ -21,7 +21,9 @@
 <h2><img src="https://raw.githubusercontent.com/ViniViniAntunes/Corretor_Ortografico_NLP/master/images/agradecimentos.svg" width=50px/> Agradecimentos </h2>
 
 <ul>
-  <li><a href="https://www.linkedin.com/in/tuliovieira/" target="_blank"> Túlio Vieira de Souza </a> (pelas aulas)</li>
+  <li><a href="https://www.linkedin.com/in/tuliovieira/" target="_blank"> Túlio Vieira de Souza </a> (pelas aulas) </li>
+  <li><a href="https://www.linkedin.com/in/lucasdatiliocarderelli/" target="_blank"> Lucas Datilio Carderelli </a> (pelas tarde de sábados codando juntos) </li>
+  <li><a href="https://www.linkedin.com/in/clarisse-alvarenga-86429124/" target="_blank"> Clarisse Alvarenga </a> (pelas dicas) </li>
 </ul>
 
 <p>
