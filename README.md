@@ -24,6 +24,7 @@
   <li><a href="https://www.linkedin.com/in/tuliovieira/" target="_blank"> Túlio Vieira de Souza </a> (pelas aulas) </li>
   <li><a href="https://www.linkedin.com/in/lucasdatiliocarderelli/" target="_blank"> Lucas Datilio Carderelli </a> (pelas tarde de sábados codando juntos) </li>
   <li><a href="https://www.linkedin.com/in/clarisse-alvarenga-86429124/" target="_blank"> Clarisse Alvarenga </a> (pelas dicas) </li>
+  <li><a href="https://www.linkedin.com/groups/12399100/" target="_blank"> Comunidade Codenation </a> (pelas 10 semanas que passamos juntos) </li>
 </ul>
 
 <p>
